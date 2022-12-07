@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Codeplateau Assignmenrt</string>
+
+    <string name="terms">I accept<u><font fgcolor="#4C0C23"> terms and conditions</font></u></string>
+
+
+    <string-array name="country">
+        <item><font fgcolor="#595757">Country</font></item>
+        <item>India</item>
+        <item>USA</item>
+        <item>South Korea</item>
+        <item>China</item>
+        <item>UK</item>
+        <item>Japan</item>
+        <item>Nepal</item>
+        <item>Malaysia</item>
+        <item>Australia</item>
+        <item>Rushia</item>
+        <item>Spain</item>
+    </string-array>
+
+    <string-array name="organizations">
+        <item><font fgcolor="#595757">Organization</font></item>
+        <item>Organization 1</item>
+        <item>Organization 2</item>
+        <item>Organization 3</item>
+        <item>Organization 4</item>
+        <item>Organization 5</item>
+        <item>Organization 6</item>
+        <item>Organization 7</item>
+    </string-array>
+
+</resources>
